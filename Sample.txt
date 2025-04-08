@@ -1,0 +1,44 @@
+--------------- SETUP SIMULATION ENVIRONMENT ---------------
+Input simulation length (min): 6
+Input number of counters: 2
+
+--------------- START SIMULATION ---------------
+
+At the beginning of iteration 1...
+Input serving time for a new customer: 5
+After 1 minute(s) ##
+    Teller 1: 6    Teller 2: 0    Waiting Line: [ ]
+
+At the beginning of iteration 2...
+Input serving time for a new customer: 0
+After 2 minute(s) ##
+    Teller 1: 6    Teller 2: 0    Waiting Line: [ ]
+
+At the beginning of iteration 3...
+Input serving time for a new customer: 1
+After 3 minute(s) ##
+    Teller 1: 6    Teller 2: 4    Waiting Line: [ ]
+
+At the beginning of iteration 4...
+Input serving time for a new customer: 3
+After 4 minute(s) ##
+    Teller 1: 6    Teller 2: 7    Waiting Line: [ ]
+
+At the beginning of iteration 5...
+Input serving time for a new customer: 2
+After 5 minute(s) ##
+    Teller 1: 6    Teller 2: 7    Waiting Line: [ 2 ]
+
+At the beginning of iteration 6...
+Input serving time for a new customer: 0
+After 6 minute(s) ##
+    Teller 1: 8    Teller 2: 7    Waiting Line: [ ]
+
+--------------- END OF SIMULATION ---------------
+Total minutes simulated   : 6 minute(s)
+Number of tellers         : 2 teller(s)
+Number of customers served: 4 customer(s)
+Average queue length      : 0.17 customer(s)
+Maximum queue length      : 1 customer(s)
+Average wait time         : 0.25 minute(s)
+Maximum wait time         : 1 minute(s)

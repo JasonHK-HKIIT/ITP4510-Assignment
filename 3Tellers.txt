@@ -1,0 +1,164 @@
+30
+3
+4
+1
+4
+0
+8
+5
+4
+5
+7
+2
+2
+1
+3
+3
+0
+2
+3
+5
+0
+3
+3
+3
+5
+4
+2
+5
+3
+2
+8
+5
+--------------- SETUP SIMULATION ENVIRONMENT ---------------
+Input simulation length (min): Input number of counters: 
+--------------- START SIMULATION ---------------
+
+At the beginning of iteration 1...
+Input serving time for a new customer: After 1 minute(s) ##
+    Teller 1: 5    Teller 2: 0    Teller 3: 0    Waiting Line: [ ]
+
+At the beginning of iteration 2...
+Input serving time for a new customer: After 2 minute(s) ##
+    Teller 1: 5    Teller 2: 3    Teller 3: 0    Waiting Line: [ ]
+
+At the beginning of iteration 3...
+Input serving time for a new customer: After 3 minute(s) ##
+    Teller 1: 5    Teller 2: 7    Teller 3: 0    Waiting Line: [ ]
+
+At the beginning of iteration 4...
+Input serving time for a new customer: After 4 minute(s) ##
+    Teller 1: 5    Teller 2: 7    Teller 3: 0    Waiting Line: [ ]
+
+At the beginning of iteration 5...
+Input serving time for a new customer: After 5 minute(s) ##
+    Teller 1: 13    Teller 2: 7    Teller 3: 0    Waiting Line: [ ]
+
+At the beginning of iteration 6...
+Input serving time for a new customer: After 6 minute(s) ##
+    Teller 1: 13    Teller 2: 7    Teller 3: 11    Waiting Line: [ ]
+
+At the beginning of iteration 7...
+Input serving time for a new customer: After 7 minute(s) ##
+    Teller 1: 13    Teller 2: 11    Teller 3: 11    Waiting Line: [ ]
+
+At the beginning of iteration 8...
+Input serving time for a new customer: After 8 minute(s) ##
+    Teller 1: 13    Teller 2: 11    Teller 3: 11    Waiting Line: [ 5 ]
+
+At the beginning of iteration 9...
+Input serving time for a new customer: After 9 minute(s) ##
+    Teller 1: 13    Teller 2: 11    Teller 3: 11    Waiting Line: [ 5 7 ]
+
+At the beginning of iteration 10...
+Input serving time for a new customer: After 10 minute(s) ##
+    Teller 1: 13    Teller 2: 11    Teller 3: 11    Waiting Line: [ 5 7 2 ]
+
+At the beginning of iteration 11...
+Input serving time for a new customer: After 11 minute(s) ##
+    Teller 1: 13    Teller 2: 16    Teller 3: 18    Waiting Line: [ 2 2 ]
+
+At the beginning of iteration 12...
+Input serving time for a new customer: After 12 minute(s) ##
+    Teller 1: 13    Teller 2: 16    Teller 3: 18    Waiting Line: [ 2 2 1 ]
+
+At the beginning of iteration 13...
+Input serving time for a new customer: After 13 minute(s) ##
+    Teller 1: 15    Teller 2: 16    Teller 3: 18    Waiting Line: [ 2 1 3 ]
+
+At the beginning of iteration 14...
+Input serving time for a new customer: After 14 minute(s) ##
+    Teller 1: 15    Teller 2: 16    Teller 3: 18    Waiting Line: [ 2 1 3 3 ]
+
+At the beginning of iteration 15...
+Input serving time for a new customer: After 15 minute(s) ##
+    Teller 1: 17    Teller 2: 16    Teller 3: 18    Waiting Line: [ 1 3 3 ]
+
+At the beginning of iteration 16...
+Input serving time for a new customer: After 16 minute(s) ##
+    Teller 1: 17    Teller 2: 17    Teller 3: 18    Waiting Line: [ 3 3 2 ]
+
+At the beginning of iteration 17...
+Input serving time for a new customer: After 17 minute(s) ##
+    Teller 1: 20    Teller 2: 20    Teller 3: 18    Waiting Line: [ 2 3 ]
+
+At the beginning of iteration 18...
+Input serving time for a new customer: After 18 minute(s) ##
+    Teller 1: 20    Teller 2: 20    Teller 3: 20    Waiting Line: [ 3 5 ]
+
+At the beginning of iteration 19...
+Input serving time for a new customer: After 19 minute(s) ##
+    Teller 1: 20    Teller 2: 20    Teller 3: 20    Waiting Line: [ 3 5 ]
+
+At the beginning of iteration 20...
+Input serving time for a new customer: After 20 minute(s) ##
+    Teller 1: 23    Teller 2: 25    Teller 3: 23    Waiting Line: [ ]
+
+At the beginning of iteration 21...
+Input serving time for a new customer: After 21 minute(s) ##
+    Teller 1: 23    Teller 2: 25    Teller 3: 23    Waiting Line: [ 3 ]
+
+At the beginning of iteration 22...
+Input serving time for a new customer: After 22 minute(s) ##
+    Teller 1: 23    Teller 2: 25    Teller 3: 23    Waiting Line: [ 3 3 ]
+
+At the beginning of iteration 23...
+Input serving time for a new customer: After 23 minute(s) ##
+    Teller 1: 26    Teller 2: 25    Teller 3: 26    Waiting Line: [ 5 ]
+
+At the beginning of iteration 24...
+Input serving time for a new customer: After 24 minute(s) ##
+    Teller 1: 26    Teller 2: 25    Teller 3: 26    Waiting Line: [ 5 4 ]
+
+At the beginning of iteration 25...
+Input serving time for a new customer: After 25 minute(s) ##
+    Teller 1: 26    Teller 2: 30    Teller 3: 26    Waiting Line: [ 4 2 ]
+
+At the beginning of iteration 26...
+Input serving time for a new customer: After 26 minute(s) ##
+    Teller 1: 30    Teller 2: 30    Teller 3: 28    Waiting Line: [ 5 ]
+
+At the beginning of iteration 27...
+Input serving time for a new customer: After 27 minute(s) ##
+    Teller 1: 30    Teller 2: 30    Teller 3: 28    Waiting Line: [ 5 3 ]
+
+At the beginning of iteration 28...
+Input serving time for a new customer: After 28 minute(s) ##
+    Teller 1: 30    Teller 2: 30    Teller 3: 33    Waiting Line: [ 3 2 ]
+
+At the beginning of iteration 29...
+Input serving time for a new customer: After 29 minute(s) ##
+    Teller 1: 30    Teller 2: 30    Teller 3: 33    Waiting Line: [ 3 2 8 ]
+
+At the beginning of iteration 30...
+Input serving time for a new customer: After 30 minute(s) ##
+    Teller 1: 33    Teller 2: 32    Teller 3: 33    Waiting Line: [ 8 5 ]
+
+--------------- END OF SIMULATION ---------------
+Total minutes simulated   : 30 minute(s)
+Number of tellers         : 3 teller(s)
+Number of customers served: 25 customer(s)
+Average queue length      : 1.60 customer(s)
+Maximum queue length      : 4 customer(s)
+Average wait time         : 1.80 minute(s)
+Maximum wait time         : 4 minute(s)
