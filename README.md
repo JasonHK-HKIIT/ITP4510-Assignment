@@ -23,7 +23,6 @@ This project, `CashierSim`, is a Java cashier counter simulation developed for t
     <tr>
         <th scope="col" width="33%">1 Teller</th>
         <th scope="col" width="33%">2 Tellers</th>
-        <th scope="col" width="33%">3 Tellers</th>
     </tr>
     <tr>
         <td>
@@ -32,22 +31,30 @@ This project, `CashierSim`, is a Java cashier counter simulation developed for t
         <td>
             <a href="https://asciinema.org/a/1088605" target="_blank"><img src="https://asciinema.org/a/1088605.svg" /></a>
         </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th scope="col" width="33%">3 Tellers</th>
+        <th scope="col" width="33%">4 Tellers</th>
+    </tr>
+    <tr>
         <td>
             <a href="https://asciinema.org/a/1088607" target="_blank"><img src="https://asciinema.org/a/1088607.svg" /></a>
+        </td>
+        <td>
+            <a href="https://asciinema.org/a/1088608" target="_blank"><img src="https://asciinema.org/a/1088608.svg" /></a>
         </td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <th scope="col" width="33%">4 Tellers</th>
         <th scope="col" width="33%">5 Tellers</th>
         <th scope="col" width="33%">6 Tellers</th>
     </tr>
     <tr>
-        <td>
-            <a href="https://asciinema.org/a/1088608" target="_blank"><img src="https://asciinema.org/a/1088608.svg" /></a>
-        </td>
         <td>
             <a href="https://asciinema.org/a/1088610" target="_blank"><img src="https://asciinema.org/a/1088610.svg" /></a>
         </td>
