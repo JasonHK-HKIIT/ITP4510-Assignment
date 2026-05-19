@@ -6,7 +6,7 @@ This project, `CashierSim`, is a Java cashier counter simulation developed for t
 
 <table>
     <tr>
-        <th scope="col" width="50%">Sample</th>
+        <th scope="col" width="50%">Sample Inputs</th>
         <th scope="col" width="50%">Input Validation</th>
     </tr>
     <tr>
