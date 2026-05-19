@@ -1,0 +1,38 @@
+#!/bin/bash
+set -euo pipefail
+
+sleep 4
+
+input "30" 2
+input "3" 4
+
+input "4" 2
+input "1" 2
+input "4" 2
+input "0" 2
+input "8" 2
+input "5" 2
+input "4" 2
+input "5" 2
+input "7" 2
+input "2" 2
+input "2" 2
+input "1" 2
+input "3" 2
+input "3" 2
+input "0" 2
+input "2" 2
+input "3" 2
+input "5" 2
+input "0" 2
+input "3" 2
+input "3" 2
+input "3" 2
+input "5" 2
+input "4" 2
+input "2" 2
+input "5" 2
+input "3" 2
+input "2" 2
+input "8" 2
+input "5"

@@ -1,0 +1,19 @@
+#!/bin/bash
+set -euo pipefail
+
+sleep 4
+
+input "string" 2
+input "1.5" 2
+input "0" 2
+input "1" 4
+
+input "string" 2
+input "1.5" 2
+input "0" 2
+input "1" 4
+
+input "string" 2
+input "1.5" 2
+input "-1" 2
+input "0"
