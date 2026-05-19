@@ -19,6 +19,8 @@ This project, `CashierSim`, is a Java cashier counter simulation developed for t
     </tr>
 </table>
 
+### Testing with Different Number of Tellers
+
 <table>
     <tr>
         <th scope="col" width="33%">1 Teller</th>
